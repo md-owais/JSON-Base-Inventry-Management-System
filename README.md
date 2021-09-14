@@ -1,4 +1,4 @@
-#ETG JSON Base Inventry Management System Project
+## ETG JSON Base Inventry Management System Project
 
 This repository is having all the codes with JSON files for making all **Inventry Management System during ETG ML/AI Internship.**
 
